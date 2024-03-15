@@ -8,9 +8,7 @@
 </head>
 <body>
 
-index.jsp 파일
-index.jsp 파일
-index.jsp 파일
+main.jsp파일(user1)
 
 </body>
 </html>
